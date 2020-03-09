@@ -1,5 +1,6 @@
 # LeoMoon Whois
-Simple sample to get domain availability and whois data from json-whois API. Using React and flatstore state management.
+Simple script to get domain availability and whois data from json-whois API using React and [flatstore state management](https://github.com/joetex/flatstore).
+
 
 ## Installation
 1. First, get your API key from jsonwhois.com. limit is 500 calls.
